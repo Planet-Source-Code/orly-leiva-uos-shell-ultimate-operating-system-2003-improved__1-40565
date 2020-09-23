@@ -1,0 +1,4 @@
+UOS 2003 (Ultimate Operating System 2003)
+Includes MS Agent (I call it helper) Requires Ms Agent 2.0.  Well anyways it is made
+by OI and OTS
+(c) 2002 - 2003
